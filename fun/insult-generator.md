@@ -1,4 +1,4 @@
-Uses a evilinsult.com to generator insults using a name or contact as an input.
+Uses the evilinsult.com api to generate insults using a name or contact as an input.
 
 Don't be mean, it's for fun.
 
